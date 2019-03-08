@@ -3,7 +3,9 @@
 ##And a subheading
 
 I want to: 
-* assess whether it would be ***better*** to use git-hub for sharing information and creating documents for the EMBL fellows' career service.
+* see if it would be ***better*** to use git-hub for sharing information 
+* understand how to create documents
+
 
 > This is a quote
 
